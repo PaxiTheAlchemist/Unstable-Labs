@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# Welcome to \<Facility-Name\>
 
-You can use the [editor on GitHub](https://github.com/PaxiTheAlchemist/Unstable-Labs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[comment]: <> (\<Facility-Name\> is a placeholder for the name of the facility prior to the events of the downfall of the facility)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here at \<Facility-Name\> we are pushing the boundaries in genetic research. Whether it be in **cosmetic appliance** or for **military solutions**, we are here to boost your efforts in achieving your goals through the use of **Genetic Science**! Have any questions about our practices? Dont worry! We'll answer your concerns right here to which there are ***absolutely no concerns!***
 
-### Markdown
+## ⚠ Site Author's Note
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site is still very much ***under construction***. All information in regards to \<Facility-Name\>, their products, and more will be shortly filled in within the coming iterations of this website! Please sit tight as we continue to gather our resources to display to all of our soon to be clients!
 
-```markdown
-Syntax highlighted code block
+## 🗺 Site Navigation and Directory Map
 
-# Header 1
-## Header 2
-### Header 3
+- [Home (You are here)](<index.md>)
+  - Our Story
+    - Beginnings
+    - Current Time
+  - Products & Services
+    - Popular Services/Products
+    - Deals
+  - Sponsors
+    - Flex Sealant
+    - Want to sponsor us?
+  - FAQ
+  - .organisationSecrets
+    - .../Home/.aftermath
+      - .../theTruth.md
+      - [.../.CustomInfectedStats.md](<Custom Infected Stats.md>)
 
-- Bulleted
-- List
+[comment]: <> (Was thinking of having everything after the downfall of the facility to be "hidden")
 
-1. Numbered
-2. List
+## 🔬 Staff
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PaxiTheAlchemist/Unstable-Labs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+  <style>
+      table {
+          margin-right: auto;
+          margin-left: auto;
+      }
+      img {
+          width: 128px;
+      }
+      td {
+          text-align: center;
+      }
+  </style>
+  <table>
+    <tr>
+      <td><img src="https://cdn.discordapp.com/avatars/163380273982078977/65c12d0422044c2cc66d3b86a629d0c4.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src="https://cdn.discordapp.com/avatars/349689197826932736/d10f6b20032f2b7fe4cc3a3173782dfd.png"></td>
+    </tr>
+    <tr style="font-weight: bold;">
+      <td>MelancholyKoi MD</td>
+      <td>qutiemans</td>
+      <td>heartgamertv132</td>
+      <td>Karma</td>
+      <td>Joshua_chaim</td>
+      <td>ProfessionalRetard</td>
+      <td>Prosmasher1</td>
+      <td>Paxi</td>
+    </tr>
+    <tr>
+        <td>Chief Administrator</td>
+        <td>Research Advisor</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Marketing Director</td>
+    </tr>
+    <tr>
+        <td>Head of Research</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Public Relations</td>
+    </tr>
+  </table>
+</html>
