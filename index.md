@@ -1,7 +1,5 @@
 # Welcome to \<Facility-Name\>
 
-[comment]: <> (\<Facility-Name\> is a placeholder for the name of the facility prior to the events of the downfall of the facility)
-
 Here at \<Facility-Name\> we are pushing the boundaries in genetic research. Whether it be in **cosmetic appliance** or for **military solutions**, we are here to boost your efforts in achieving your goals through the use of **Genetic Science**! Have any questions about our practices? Dont worry! We'll answer your concerns right here to which there are ***absolutely no concerns!***
 
 ## ⚠ Site Author's Note
@@ -10,7 +8,7 @@ This site is still very much ***under construction***. All information in regard
 
 ## 🗺 Site Navigation and Directory Map
 
-- [Home (You are here)](<index.md>)
+- [Home (You are here)](</index.md>)
   - Our Story
     - Beginnings
     - Current Time
@@ -24,9 +22,7 @@ This site is still very much ***under construction***. All information in regard
   - .organisationSecrets
     - .../Home/.aftermath
       - .../theTruth.md
-      - [.../.CustomInfectedStats.md](<Custom Infected Stats.md>)
-
-[comment]: <> (Was thinking of having everything after the downfall of the facility to be "hidden")
+      - [.../.CustomInfectedStats.md](</Infected Stats.md>)
 
 ## 🔬 Staff
 
