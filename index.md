@@ -8,7 +8,7 @@ This site is still very much ***under construction***. All information in regard
 
 ## 🗺 Site Navigation and Directory Map
 
-- [Home (You are here)](</index.md>)
+- [Home (You are here)](<index>)
   - Our Story
     - Beginnings
     - Current Time
@@ -22,7 +22,7 @@ This site is still very much ***under construction***. All information in regard
   - .organisationSecrets
     - .../Home/.aftermath
       - .../theTruth.md
-      - [.../.CustomInfectedStats.md](</Infected Stats.md>)
+      - [.../.CustomInfectedStats.md](<Custom Infected Stats>)
 
 ## 🔬 Staff
 
